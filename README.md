@@ -344,8 +344,6 @@ workspace/                       # ★ Ready-to-use agent configuration
     └── MEMORY.md                #   Long-term memory
 ```
 
-> Items marked with ★ are new or significantly modified in this fork.
-
 ---
 
 ## Acknowledgements
