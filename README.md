@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="nanobot-forge_logo.jpg" alt="nanobot" width="500">
+  <img src="nanobot-forge_logo.png" alt="nanobot" width="500">
 </div>
 
 # 🐈 nanobot-forge: Coding Agent nanobot Fork
