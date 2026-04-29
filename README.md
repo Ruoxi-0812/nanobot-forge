@@ -2,7 +2,7 @@
   <img src="nanobot-forge_logo.png" alt="nanobot" width="500">
 </div>
 
-# 🐈 nanobot-forge: Coding Agent nanobot Fork
+# 🐈 nanobot-forge: Workspace-based Coding Agent
 
 A **coding-specialized** fork of [nanobot](https://github.com/HKUDS/nanobot) — an ultra-lightweight personal AI agent framework. This version extends nanobot with a workspace coding toolset: code execution, test running, sandboxed evaluation, git operations, linting, and package management — turning the agent into a practical local coding assistant.
 
